@@ -7,7 +7,7 @@ setwd(workdir)
 
 # if only loading saved data
 load(file=paste(workdir, "votesForWeb", "rc61.RData", sep="/"))
-
+ls()
 ## IMPORT DIPUTADO NAMES AND DISTRICTS (PREPARED IN EXCEL)
 dipdat <- read.csv(paste(workdir, "/diputados/dip61.csv", sep = ""), header=TRUE, stringsAsFactors = FALSE)
 dipdat$idOldDrop <- NULL # old IDs, no longer good

@@ -2,7 +2,7 @@
 
 Author: Eric Magar
 
-email: emagar@gmail.com (emagar at gmail.com)
+email: emagar@gmail.com (emagar at gmail dot com)
 
 Revised: July 8, 2015
 
@@ -41,6 +41,6 @@ The objects in each R file (zipped together in text-only files) are the followin
 -rc: roll call vote information (0=was not chamber member, 1=aye,
  2=nay, 3=abstained, 4=present but did not vote, 5=no show)
 
--dgaceta: indicates whether or not the vote was also reported by the
+-dgaceta: indicates whether (1) or not (0) the vote was also reported by the
  *Gaceta Parlamentaria*, as discussed by Cantu, Desposato, and Magar 2014.
 
