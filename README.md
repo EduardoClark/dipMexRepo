@@ -1,11 +1,12 @@
 **Roll call votes data for the Mexican Chamber of Deputies**
 
+Github: https://github.com/emagar/dipMexRepo
+
 Author: Eric Magar
 
-email: emagar@gmail.com (emagar at gmail dot com)
+email: emagar at gmail dot com
 
 Revised: July 8, 2015
-
 
 This repository in under the MIT License, see http://opensource.org/licenses/MIT. The sole condition to use the data is to cite it as follows: Francisco Cantu, Scott Desposato, and Eric Magar. 2014. "Consideraciones metodologicas para estudiantes de politica legislativa mexicana: sesgo por seleccion en votaciones nominales". Politica y Gobierno vol. 21, num. 1, pp. 25-54.
 
@@ -19,6 +20,7 @@ This repository in under the MIT License, see http://opensource.org/licenses/MIT
 	number = 1,
 	journal = {Pol\'itica y Gobierno},
 	pages = {25--54}
+        url = {http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/18/564}
 }
 ```
 
